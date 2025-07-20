@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(41,86): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(41,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,81): warning C4244:         with
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,81): warning C4244:         [
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,81): warning C4244:             T=float
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,81): warning C4244:         ]
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,60): warning C4244:         with
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,60): warning C4244:         [
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,60): warning C4244:             T=float
+C:\Users\ARDOR\source\repos\sfml\sfml\main.cpp(47,60): warning C4244:         ]
+LINK : warning LNK4044: нераспознанный параметр "/ freetype.lib"; игнорируется
+LINK : warning LNK4044: нераспознанный параметр "/ freetype.lib"; игнорируется
+  sfml.vcxproj -> C:\Users\ARDOR\source\repos\sfml\x64\Debug\sfml.exe
